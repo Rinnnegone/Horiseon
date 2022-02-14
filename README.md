@@ -8,7 +8,7 @@ A website that offers social media success by teaching you how to make your pres
 *CSS
 
 ## website
-
+https://rinnnegone.github.io/Horiseon/
 
 ## Contribution 
 Horiseon web development team.
